@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"/resources/Diabeties.jpg",
+        "imagesrc":"Diabeties.jpg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
